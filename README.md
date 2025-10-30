@@ -1,6 +1,7 @@
 # AppDost - Modern Web Application
 
 A modern web application built with React, TypeScript, and Vite, featuring responsive design and a clean, maintainable architecture.
+**Live Demo:** [https://appdostbhanu.netlify.app](https://appdostbhanu.netlify.app)
 
 ## 🚀 Features
 
